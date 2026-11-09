@@ -9,7 +9,7 @@ I was watching a recent Manchester United game at Old Trafford and noticed how p
 
 ## The Data
 * **Matches:** 9,380 matches
-* **Source:** [Kaggle English Premier League Dataset](https://www.kaggle.com/)
+* **Source:** [Kaggle English Premier League Dataset]([https://www.kaggle.com/](https://www.kaggle.com/datasets/marcohuiii/english-premier-league-epl-match-data-2000-2025))
 * **Raw Baseline:** Before any ML, home teams won 45.8% of the time, away teams won 29.5%, and 24.7% were draws.
 
 ## Methodology
